@@ -1,0 +1,24 @@
+html{
+   background-color: #0163E6;
+}
+.primary{
+    transition: all ease-in 200ms;
+}
+
+.primary h4{
+    padding:10px;
+    font-size: 18px;
+}
+
+.primary:hover button{
+    background-color: #0163E6 !important;
+    transition: all ease-in 200ms;
+}
+.primary:hover{
+     box-shadow: 0 20px 10px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+     margin-bottom: 10px;
+}
+
+.primary:hover button{
+    background-color: #0163E6;
+}
